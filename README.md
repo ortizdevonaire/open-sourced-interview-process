@@ -47,7 +47,7 @@ The following content will provide both candidates and recruiters with valuable 
 
 We aim to have our interview process take an average of 3 weeks from start to finish.  Between each step of the interview process, we ask for at most 3 business days for us to to make a decision, but at any point during the interview process, please feel comfortable reaching out to us for updates on your candidacy. 
 
-Throughout our interview process, it is important to remember that after the Recruiter Phone Screen, the candidate's resume and the recruiter's notes will not be shared with the hiring team. This is one of the ways that we focus on the skills candidates show during the exercises, rather than their past experience. Learn more about this here: "[How We're Fighting Unconscious Bias](https://www.cockroachlabs.com/blog/fighting-unconscious-bias-cockroach-labs/)."
+Throughout our interview process, it is important to remember that after the Recruiter Phone Screen, the candidate's resume and the recruiter's notes will not be shared with the hiring team. This is one of the ways that we focus on the skills candidates show during the exercises rather than their past experience. Learn more about this here: "[How We're Fighting Unconscious Bias](https://www.cockroachlabs.com/blog/fighting-unconscious-bias-cockroach-labs/)."
 
 1. **Candidate Application:** Applicants receive an automated message from the Applicant Tracking System (in this case, [Greenhouse](https://www.greenhouse.io)) to confirm receipt of their application. The note thanks them for submitting their information and contains a Cockroach Labs Company Guide that gives applicants an inside look into the company culture.
 
