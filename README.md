@@ -120,9 +120,9 @@ Our hypothesis is that a structured and fair process means better decisions. We 
 
 ## Exercise Based Interview Questions
 
-The purpose of an interview is to obtain information about a candidate in order to predict future performance. To accomplish this, we rely on Exercise-Based Interviewing. Exercise based interviews can include case studies, group exercises involving role play or discussions, individual exercises, or presentations. They allow for our interviewers to witness the direct application of a candidate’s abilities to competencies required for the role. Rather than guess if a candidate can do the job based on their answers to behavioral questions, we ask for candidates to show. During the interview, candidates are asked to complete exercises that are similar to the initiatives they would complete when actually working in the position on a day to day basis.
+The purpose of an interview is to obtain information about a candidate in order to predict future performance. To accomplish this, we rely on Exercise-Based Interviewing. Exercise-based interviews can include case studies, group exercises involving role play or discussions, individual exercises, or presentations. They allow for our interviewers to witness the direct application of a candidate’s abilities to competencies required for the role. Rather than guess if a candidate can do the job based on their answers to behavioral questions, we ask for candidates to show. During the interview, candidates are asked to complete exercises that are similar to the initiatives they would complete when actually working in the position on a day to day basis.
 
-For engineering positions, we use coding and system design questions. For non-tech, we use job-based simulations in the form of case studies, individual exercises, and/or presentations. 
+For engineering positions, we use coding and system design questions. For non-tech, we use job-based simulations in the form of case studies, individual exercises, and/or presentations.
 
 For more information about the different exercises we use in our interview process, please review the different department areas. 
 
@@ -148,7 +148,7 @@ For more information about the different exercises we use in our interview proce
 
 ## Contributing to the Interview Process Guide
 
-If you’d like to contribute an interview exercise, please follow the template below, then either submit a pull request on the correct file for the departments listed or email it to recruiting@cockroachlabs.com to be added to the file. Please note, if they department file does not exists, email recruiting@cockroachlabs.com so we can create it for you. 
+If you’d like to contribute an interview exercise, please follow the template below, then either submit a pull request on the correct file for the departments listed or email it to recruiting@cockroachlabs.com to be added to the file. Please note, if the department file does not exist, email recruiting@cockroachlabs.com so that we can create it for you. 
 
 **Interview Exercise Template:** 
 
