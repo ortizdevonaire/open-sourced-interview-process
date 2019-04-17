@@ -35,7 +35,7 @@ The following content will provide both candidates and recruiters with valuable 
 
 **For Recruiters:**
 
-- Leverage the Cockroach Labs interview process and questions for your company’s hiring process. If you would like access to the curveball questions or rubrics, please reach out direct to recruiting@cockroachlabs.com, and we will be happy to share them with you.
+- Leverage the Cockroach Labs interview process and questions for your company’s hiring process. If you would like access to the curveball questions or rubrics, please reach out directly to recruiting@cockroachlabs.com and we will be happy to share them with you.
 
 - Contributions to the Cockroach Labs Interview Process are welcomed and encouraged! Please see Contributing to the Interview Process Guide below. 
 
