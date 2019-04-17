@@ -59,12 +59,12 @@ Throughout our interview process, it is important to remember that after the Rec
 
     - **Take-home Exercise:** The take-home exercise typically takes 1-2 hours to complete and allows the hiring manager or a member of the team to review a candidate’s skills before proceeding to the next step of the hiring process. The take-home exercise replaces one onsite interview, equaling one hour of engagement.  
 
-    - **Phone Interview:** The 1-hour phon e interview with a member of the team covers skills related to the specific role or to review the take-home exercise. For technical phone interviews, we use Google Hangouts and [coderpad.io](http://coderpad.io/) and cover coding and debugging, algorithms, and data structures.
+    - **Phone Interview:** The 1-hour phone interview with a member of the team covers skills related to the specific role or to review the take-home exercise. For technical phone interviews, we use Google Hangouts and [coderpad.io](http://coderpad.io/) and cover coding and debugging, algorithms, and data structures.
 
 
-5. **In-person Interviews:** The next step in the interview process is an onsite interview. The onsite interview team consists of people that would be on the candidate's direct team and people on cross-functional teams too. The recruiter will share an overview of who the candidate will be meeting with. The interview itself has 4-5 exercise based interviews, with a break in the middle for lunch with a member of the team. Each session runs an hour long, including lunch, which is a time for candidates to take a break, relax, and get a feel for our culture at Cockroach Labs. 
+5. **In-person Interviews:** The next step in the interview process is an onsite interview. The onsite interview team consists of people that would be on the candidate's direct team and people on cross-functional teams, too. The recruiter will share an overview of the team members with whom the candidate will be meeting. The interview itself has 4-5 exercise based interviews, with a break in the middle for lunch with a member of the team. Each session runs an hour long, including lunch, which is a time for candidates to take a break, relax, and get a feel for our culture at Cockroach Labs. 
 
-6. **Candidate Survey:** Once the candidate comes onsite, the recruiter will send the candidate a link to complete our candidate survey.  By filling out this short 2-minute survey, candidates help us iterate on our interview process.  
+6. **Candidate Survey:** Once the candidate comes onsite, the recruiter will send the candidate a link to complete our candidate survey. By filling out this short 2-minute survey, candidates help us iterate on our interview process.  
 
 7. **Hiring Committee Review:** After the onsite interview is complete, feedback from the interview process is shared across the interview team. Interview team members review the feedback and independently reach a decision of hire/no-hire based on the comprehensive feedback. At the HC review, the interview team reaches a consensus on whether to reject the candidate or proceed with reference calls.
 
@@ -108,7 +108,7 @@ These files provide a deep-dive into the various stages of the interview process
 
 ## Challenging our Unconscious Bias
 
-In the effort of building a diverse workforce, at Cockroach Labs, we ask the question "are we missing strong candidates because of preconceptions or unconscious biases of the interviewer?" To challenge our bias, we have committed to:
+In the effort of building a diverse workforce, at Cockroach Labs, we ask the question: "are we missing strong candidates because of preconceptions or unconscious biases of the interviewer?" To challenge our bias, we have committed to:
 
 1. Exercise based interviewing
 
