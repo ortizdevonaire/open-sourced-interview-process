@@ -40,6 +40,6 @@ It’s important to remember that interviews are not natural, and it’s normal 
 
 2. We do not strive to assess perfect theoretical knowledge that the candidate can google when needed, or present a problem that took us 2 months to dominate and expect our interviewees to master in a 30 minutes conversation.
 
-3. Come prepared. If you haven’t been interviewing, run through a couple of questions with your friends so you will get back to the mentality of what it feels like to answer interview questions. 
+3. Come prepared. If you haven’t been interviewing, run through a couple of questions with your friends so that you get back into the mentality of what it feels like to answer interview questions. 
 
 4. Come with questions! The interviewer leaves time at the end of the interview to ask questions so please come with them and we will be prepared to answer as thoroughly as we can. 
