@@ -61,13 +61,13 @@ The following are exercises for administrative positions.
 
 - **Overview:** Come up with a plan to provide snacks to our employees on a weekly basis.  
 
-- **Set-up:** 15 minute warm-up-present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion.  (currently we spend about $1400 a month which is about $14 per employee per week. 
+- **Set-up:** 15 minute warm-up-present problem, 15 minute work time, 15 minute discussion.  (currently we spend about $1400 a month which is about $14 per employee per week. 
 
     - Tell me a bit about yourself and what interested you in CRL.
 
     - Give context why we do snacks (minimum bar of entry for the tech industry) - what is your current experience with free food in the office?
 
-    - This job objective, straightforward but also touchy feely.  Food seems trivial but it is important and will touch everyone.
+    - This job objective is straightforward but also touchy feely.  Food seems trivial but it is important and will touch everyone.
 
 - **Part 1:** Identify snacks for the office, including communication to employees.
 
