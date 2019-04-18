@@ -42,7 +42,7 @@ The following are exercises for administrative positions.
 
 - **Overview:** Your first day at Cockroach Labs is Monday, August 28th. You have been shared on an email communication for an upcoming meeting on Thursday, September 8th and asked to resolve the situation. 
 
-- **Part 1**: Discuss with the interviewer about how you would resolve the situation. 
+- **Part 1**: Discuss with the interviewer how you would resolve the situation. 
 
 - **Key Participants:** 
 
