@@ -2,9 +2,9 @@ The following are exercises for administrative positions.
 
 ## **Title: Activity/Event Planning**
 
-- **Set-up:** 15 minute warm-up - present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion. 
-
 - **Overview:** Cockroach Labs would like to plan an end of summer activity/event, inviting all employees. 
+
+- **Set-up:** 15 minute warm-up - present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion. 
 
 - **Part 1:** Come up with 5 concepts for a summer activity/event (i.e. Roachella, Cockroach Cares)
 
@@ -15,9 +15,9 @@ The following are exercises for administrative positions.
 
 ## **Title: Client Meetings**
 
-- **Set-up:** 15 minute warm- up and present problem, 15 minute work time, 15 minute discussion. 
-
 - **Overview:** Schedule two, one-hour client meetings for Co-Founder and VP, Engineering, Peter Mattis. Peter has not met with these individuals before so please be sure to prepare a short bio on both clients by researching publicly available information. Please also be sure to include any information that may be useful for Peter to know (i.e. areas of overlap, current focus in roles, past experience, etc.).
+
+- **Set-up:** 15 minute warm- up and present problem, 15 minute work time, 15 minute discussion. 
 
 - **Client Meetings:** 
 
@@ -38,9 +38,9 @@ The following are exercises for administrative positions.
 
 ## **Title: External Communication and Diplomacy**
 
-- **Set-up:** 15 minute warm-up and present problem, 15 minute work time, 15 minute discussion. 
-
 - **Overview:** Your first day at Cockroach Labs is Monday, August 28th. You have been shared on an email communication for an upcoming meeting on Thursday, September 8th and asked to resolve the situation. 
+
+- **Set-up:** 15 minute warm-up and present problem, 15 minute work time, 15 minute discussion. 
 
 - **Part 1**: Discuss with the interviewer about how you would resolve the situation. 
 
